@@ -71,6 +71,7 @@
 - [GNUsocial.no](https://gnusocial.no) - Allows users to connect and share with each other; expenses are covered by donations.
 - [Mastodon](https://mastodon.social) - Free, open source, and decentralized social network server.
 - [Quitter.se](https://quitter.se) - Twitter clone that is part of the federated GNU social network.
+- [Inventaire.io](https://inventaire.io) - Allows users to keep an inventory of their books, and share it with their friends and communities. Libre software and knowledge.
 
 ### Utilities
 
